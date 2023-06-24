@@ -11,6 +11,7 @@
 		056556BC2A472EAF002A54BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056556BB2A472EAF002A54BA /* ContentView.swift */; };
 		056556BE2A472EB0002A54BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 056556BD2A472EB0002A54BA /* Assets.xcassets */; };
 		056556C12A472EB0002A54BA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 056556C02A472EB0002A54BA /* Preview Assets.xcassets */; };
+		056556C82A47313F002A54BA /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056556C72A47313F002A54BA /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		056556BB2A472EAF002A54BA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		056556BD2A472EB0002A54BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		056556C02A472EB0002A54BA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		056556C72A47313F002A54BA /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				056556B92A472EAF002A54BA /* ScrumdingerApp.swift */,
 				056556BB2A472EAF002A54BA /* ContentView.swift */,
+				056556C72A47313F002A54BA /* SecondView.swift */,
 				056556BD2A472EB0002A54BA /* Assets.xcassets */,
 				056556BF2A472EB0002A54BA /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				056556C82A47313F002A54BA /* SecondView.swift in Sources */,
 				056556BC2A472EAF002A54BA /* ContentView.swift in Sources */,
 				056556BA2A472EAF002A54BA /* ScrumdingerApp.swift in Sources */,
 			);
