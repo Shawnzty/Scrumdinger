@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Test for source control by GitHub.")
+            Text("Complete settings for source control by GitHub.")
         }
         .padding()
     }
